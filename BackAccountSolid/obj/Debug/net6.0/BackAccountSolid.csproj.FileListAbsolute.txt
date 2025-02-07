@@ -1,0 +1,14 @@
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\bin\Debug\net6.0\BackAccountSolid.exe
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\bin\Debug\net6.0\BackAccountSolid.deps.json
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\bin\Debug\net6.0\BackAccountSolid.runtimeconfig.json
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\bin\Debug\net6.0\BackAccountSolid.dll
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\bin\Debug\net6.0\BackAccountSolid.pdb
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.AssemblyInfoInputs.cache
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.AssemblyInfo.cs
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.csproj.CoreCompileInputs.cache
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.dll
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\refint\BackAccountSolid.dll
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.pdb
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\BackAccountSolid.genruntimeconfig.cache
+C:\Training\C#MasterClass\repos\BankAccount\BackAccountSolidApp\BackAccountSolid\obj\Debug\net6.0\ref\BackAccountSolid.dll
